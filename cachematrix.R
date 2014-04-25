@@ -1,4 +1,4 @@
-## makeCacheMatrix is an R function which is able to cache inverse of the given matrix
+## makeCacheMatrix to cache inverse of the given matrix
 ##
 ## The function cacheSolve calculates the inverse of the matrix given to it 
 ## However, it first checks to see if the inverse has already been calculated
